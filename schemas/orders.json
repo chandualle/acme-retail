@@ -1,0 +1,65 @@
+{
+  "table_name": "orders",
+  "format": "json",
+  "columns": [
+    {
+      "name": "order_id",
+      "type": "STRING",
+      "nullable": false,
+      "primary_key": true
+    },
+    {
+      "name": "customer_id",
+      "type": "STRING",
+      "nullable": true,
+      "foreign_key": "customers.customer_id"
+    },
+    {
+      "name": "product_id",
+      "type": "STRING",
+      "nullable": false,
+      "foreign_key": "products.product_id"
+    },
+    {
+      "name": "store_id",
+      "type": "STRING",
+      "nullable": false,
+      "foreign_key": "stores.store_id"
+    },
+    {
+      "name": "order_timestamp",
+      "type": "TIMESTAMP",
+      "nullable": false
+    },
+    {
+      "name": "quantity",
+      "type": "INTEGER",
+      "nullable": false
+    },
+    {
+      "name": "unit_price",
+      "type": "NUMERIC",
+      "nullable": false
+    },
+    {
+      "name": "discount",
+      "type": "NUMERIC",
+      "nullable": false
+    },
+    {
+      "name": "order_status",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "channel",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "updated_at",
+      "type": "TIMESTAMP",
+      "nullable": false
+    }
+  ]
+}

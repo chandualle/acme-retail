@@ -1,0 +1,39 @@
+{
+  "table_name": "inventory",
+  "format": "csv",
+  "columns": [
+    {
+      "name": "inventory_id",
+      "type": "STRING",
+      "nullable": false,
+      "primary_key": true
+    },
+    {
+      "name": "store_id",
+      "type": "STRING",
+      "nullable": false,
+      "foreign_key": "stores.store_id"
+    },
+    {
+      "name": "product_id",
+      "type": "STRING",
+      "nullable": false,
+      "foreign_key": "products.product_id"
+    },
+    {
+      "name": "stock_quantity",
+      "type": "INTEGER",
+      "nullable": false
+    },
+    {
+      "name": "reorder_level",
+      "type": "INTEGER",
+      "nullable": false
+    },
+    {
+      "name": "updated_at",
+      "type": "TIMESTAMP",
+      "nullable": false
+    }
+  ]
+}

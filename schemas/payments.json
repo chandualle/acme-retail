@@ -1,0 +1,43 @@
+{
+  "table_name": "payments",
+  "format": "json",
+  "columns": [
+    {
+      "name": "payment_id",
+      "type": "STRING",
+      "nullable": false,
+      "primary_key": true
+    },
+    {
+      "name": "order_id",
+      "type": "STRING",
+      "nullable": false,
+      "foreign_key": "orders.order_id"
+    },
+    {
+      "name": "payment_method",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "payment_status",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "amount",
+      "type": "NUMERIC",
+      "nullable": false
+    },
+    {
+      "name": "payment_timestamp",
+      "type": "TIMESTAMP",
+      "nullable": false
+    },
+    {
+      "name": "updated_at",
+      "type": "TIMESTAMP",
+      "nullable": false
+    }
+  ]
+}

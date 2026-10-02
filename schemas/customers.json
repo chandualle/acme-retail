@@ -1,0 +1,72 @@
+{
+    "table_name" : "customers",
+    "format" : "CSV",
+    "columns" : [
+        {
+            "name" : "customer_id",
+            "type" : "STRING",
+            "nullable" : false,
+            "primary_key" : true
+        },
+
+        {
+            "name" : "first_name",
+            "type" : "STRING",
+            "nullable" : false
+        },
+
+        {
+            "name" : "last_name",
+            "type" : "STRING",
+            "nullable" : false
+        },
+
+        {
+            "name" : "email",
+            "type" : "STRING",
+            "nullable" : false
+        },
+
+        {
+            "name" : "phone",
+            "type" : "STRING",
+            "nullable" : true
+        },
+
+        {
+            "name" : "city",
+            "type" : "STRING",
+            "nullable" : true
+        },
+
+        {
+            "name" : "state",
+            "type" : "STRING",
+            "nullable" : true
+        },
+
+        {
+            "name" : "country",
+            "type" : "STRING",
+            "nullable" : true
+        },
+
+        {
+            "name" : "signup_date",
+            "type" : "DATE",
+            "nullable" : false
+        },
+
+        {
+            "name" : "customer_status",
+            "type" : "STRING",
+            "nullable" : false
+        },
+
+        {
+            "name" : "updated_at",
+            "type" : "TIMESTAMP",
+            "nullable" : false
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+  "table_name": "products",
+  "format": "csv",
+  "columns": [
+    {
+      "name": "product_id",
+      "type": "STRING",
+      "nullable": false,
+      "primary_key": true
+    },
+    {
+      "name": "product_name",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "category",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "subcategory",
+      "type": "STRING",
+      "nullable": true
+    },
+    {
+      "name": "brand",
+      "type": "STRING",
+      "nullable": true
+    },
+    {
+      "name": "supplier_id",
+      "type": "STRING",
+      "nullable": true
+    },
+    {
+      "name": "unit_cost",
+      "type": "NUMERIC",
+      "nullable": false
+    },
+    {
+      "name": "selling_price",
+      "type": "NUMERIC",
+      "nullable": false
+    },
+    {
+      "name": "product_status",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "updated_at",
+      "type": "TIMESTAMP",
+      "nullable": false
+    }
+  ]
+}

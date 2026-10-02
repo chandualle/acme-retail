@@ -1,0 +1,52 @@
+{
+  "table_name": "stores",
+  "format": "csv",
+  "columns": [
+    {
+      "name": "store_id",
+      "type": "STRING",
+      "nullable": false,
+      "primary_key": true
+    },
+    {
+      "name": "store_name",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "city",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "state",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "region",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "store_type",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "opening_date",
+      "type": "DATE",
+      "nullable": false
+    },
+    {
+      "name": "store_status",
+      "type": "STRING",
+      "nullable": false
+    },
+    {
+      "name": "updated_at",
+      "type": "TIMESTAMP",
+      "nullable": false
+    }
+  ]
+}
