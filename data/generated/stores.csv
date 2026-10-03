@@ -1,0 +1,4 @@
+store_id,store_name,city,state,region,store_type,opening_date,store_status,updated_at
+S001,Acme Store 1,Vijayawada,AP,South,RETAIL,2024-01-01,ACTIVE,2026-10-03T12:59:31
+S002,Acme Store 2,Guntur,AP,South,RETAIL,2024-01-01,ACTIVE,2026-10-03T12:59:31
+S003,Acme Store 3,Visakhapatnam,AP,South,RETAIL,2024-01-01,ACTIVE,2026-10-03T12:59:31

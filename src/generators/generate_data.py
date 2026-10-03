@@ -9,7 +9,8 @@ import random
 # Configuration
 # --------------------------------------------------
 
-OUTPUT_DIR = Path("data/generated")
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+OUTPUT_DIR = PROJECT_ROOT / "data" / "generated"
 
 NUM_CUSTOMERS = 10
 NUM_PRODUCTS = 5

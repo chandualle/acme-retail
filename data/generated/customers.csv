@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,city,state,country,signup_date,customer_status,updated_at
+C0001,Neha,Patel,customer1@example.com,9855228580,Vijayawada,AP,India,2026-01-01,ACTIVE,2026-10-03T12:59:31
+C0002,Ananya,Singh,customer2@example.com,9833268726,Vijayawada,AP,India,2026-01-01,ACTIVE,2026-10-03T12:59:31
+C0003,Kiran,Reddy,customer3@example.com,9853961806,Vijayawada,AP,India,2026-01-01,ACTIVE,2026-10-03T12:59:31
+C0004,Kiran,Patel,customer4@example.com,9875056402,Vijayawada,AP,India,2026-01-01,ACTIVE,2026-10-03T12:59:31
+C0005,Sneha,Reddy,customer5@example.com,9825986536,Vijayawada,AP,India,2026-01-01,ACTIVE,2026-10-03T12:59:31
+C0006,Arjun,Singh,customer6@example.com,9879058618,Vijayawada,AP,India,2026-01-01,ACTIVE,2026-10-03T12:59:31
+C0007,Vikram,Singh,customer7@example.com,9828875553,Vijayawada,AP,India,2026-01-01,ACTIVE,2026-10-03T12:59:31
+C0008,Ananya,Singh,customer8@example.com,9820981415,Vijayawada,AP,India,2026-01-01,ACTIVE,2026-10-03T12:59:31
+C0009,Rahul,Reddy,customer9@example.com,9820027345,Vijayawada,AP,India,2026-01-01,ACTIVE,2026-10-03T12:59:31
+C0010,Ravi,Kumar,customer10@example.com,9864837654,Vijayawada,AP,India,2026-01-01,ACTIVE,2026-10-03T12:59:31
