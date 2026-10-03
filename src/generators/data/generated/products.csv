@@ -1,0 +1,6 @@
+product_id,product_name,category,subcategory,brand,supplier_id,unit_cost,selling_price,product_status,updated_at
+P0001,Wireless Mouse,Electronics,General,Acme,SUP001,1299,1307,ACTIVE,2026-10-03T12:27:56
+P0002,Keyboard,Electronics,General,Acme,SUP002,322,1446,ACTIVE,2026-10-03T12:27:56
+P0003,USB Cable,Accessories,General,Acme,SUP003,664,843,ACTIVE,2026-10-03T12:27:56
+P0004,Headphones,Electronics,General,Acme,SUP004,1456,1297,ACTIVE,2026-10-03T12:27:56
+P0005,Laptop Bag,Accessories,General,Acme,SUP005,634,1040,ACTIVE,2026-10-03T12:27:56
