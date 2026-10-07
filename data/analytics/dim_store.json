@@ -1,0 +1,38 @@
+[
+  {
+    "store_key": 30001,
+    "store_id": "S001",
+    "store_name": "Acme Store 1",
+    "city": "Vijayawada",
+    "state": "AP",
+    "region": "South",
+    "store_type": "RETAIL",
+    "opening_date": "2024-01-01",
+    "store_status": "ACTIVE",
+    "updated_at": "2026-10-04T15:12:05"
+  },
+  {
+    "store_key": 30002,
+    "store_id": "S002",
+    "store_name": "Acme Store 2",
+    "city": "Guntur",
+    "state": "AP",
+    "region": "South",
+    "store_type": "RETAIL",
+    "opening_date": "2024-01-01",
+    "store_status": "ACTIVE",
+    "updated_at": "2026-10-04T15:12:05"
+  },
+  {
+    "store_key": 30003,
+    "store_id": "S003",
+    "store_name": "Acme Store 3",
+    "city": "Visakhapatnam",
+    "state": "AP",
+    "region": "South",
+    "store_type": "RETAIL",
+    "opening_date": "2024-01-01",
+    "store_status": "ACTIVE",
+    "updated_at": "2026-10-04T15:12:05"
+  }
+]

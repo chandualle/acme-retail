@@ -2,181 +2,261 @@
   {
     "payment_id": "PAY000001",
     "order_id": "O000001",
+    "customer_key": 10001,
+    "product_key": 20001,
+    "store_key": 30002,
     "payment_method": "DEBIT_CARD",
     "payment_status": "SUCCESS",
     "amount": 1995.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826126"
   },
   {
     "payment_id": "PAY000002",
     "order_id": "O000002",
+    "customer_key": 10006,
+    "product_key": 20003,
+    "store_key": 30001,
     "payment_method": "WALLET",
     "payment_status": "FAILED",
     "amount": 3412.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826142"
   },
   {
     "payment_id": "PAY000003",
     "order_id": "O000003",
+    "customer_key": 10007,
+    "product_key": 20002,
+    "store_key": 30002,
     "payment_method": "WALLET",
     "payment_status": "SUCCESS",
     "amount": 4604.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826149"
   },
   {
     "payment_id": "PAY000004",
     "order_id": "O000004",
+    "customer_key": 10009,
+    "product_key": 20005,
+    "store_key": 30002,
     "payment_method": "NET_BANKING",
     "payment_status": "FAILED",
     "amount": 10835.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826153"
   },
   {
     "payment_id": "PAY000005",
     "order_id": "O000005",
+    "customer_key": 10001,
+    "product_key": 20005,
+    "store_key": 30003,
     "payment_method": "CREDIT_CARD",
     "payment_status": "SUCCESS",
     "amount": 10835.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826157"
   },
   {
     "payment_id": "PAY000006",
     "order_id": "O000006",
+    "customer_key": 10009,
+    "product_key": 20005,
+    "store_key": 30001,
     "payment_method": "WALLET",
     "payment_status": "SUCCESS",
     "amount": 2167.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826160"
   },
   {
     "payment_id": "PAY000007",
     "order_id": "O000007",
+    "customer_key": 10007,
+    "product_key": 20002,
+    "store_key": 30001,
     "payment_method": "NET_BANKING",
     "payment_status": "SUCCESS",
     "amount": 2277.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826164"
   },
   {
     "payment_id": "PAY000008",
     "order_id": "O000008",
+    "customer_key": 10007,
+    "product_key": 20002,
+    "store_key": 30001,
     "payment_method": "DEBIT_CARD",
     "payment_status": "SUCCESS",
     "amount": 6981.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826167"
   },
   {
     "payment_id": "PAY000009",
     "order_id": "O000009",
+    "customer_key": 10001,
+    "product_key": 20002,
+    "store_key": 30002,
     "payment_method": "UPI",
     "payment_status": "SUCCESS",
     "amount": 11635.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826171"
   },
   {
     "payment_id": "PAY000010",
     "order_id": "O000010",
+    "customer_key": 10001,
+    "product_key": 20005,
+    "store_key": 30001,
     "payment_method": "NET_BANKING",
     "payment_status": "SUCCESS",
     "amount": 6501.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826174"
   },
   {
     "payment_id": "PAY000011",
     "order_id": "O000011",
+    "customer_key": 10001,
+    "product_key": 20002,
+    "store_key": 30001,
     "payment_method": "NET_BANKING",
     "payment_status": "SUCCESS",
     "amount": 11535.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826178"
   },
   {
     "payment_id": "PAY000012",
     "order_id": "O000012",
+    "customer_key": 10001,
+    "product_key": 20003,
+    "store_key": 30001,
     "payment_method": "CREDIT_CARD",
     "payment_status": "FAILED",
     "amount": 2559.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826181"
   },
   {
     "payment_id": "PAY000013",
     "order_id": "O000013",
+    "customer_key": 10005,
+    "product_key": 20004,
+    "store_key": 30002,
     "payment_method": "DEBIT_CARD",
     "payment_status": "SUCCESS",
     "amount": 2326.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826188"
   },
   {
     "payment_id": "PAY000014",
     "order_id": "O000014",
+    "customer_key": 10001,
+    "product_key": 20003,
+    "store_key": 30003,
     "payment_method": "DEBIT_CARD",
     "payment_status": "SUCCESS",
     "amount": 1656.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826192"
   },
   {
     "payment_id": "PAY000015",
     "order_id": "O000015",
+    "customer_key": 10001,
+    "product_key": 20005,
+    "store_key": 30001,
     "payment_method": "NET_BANKING",
     "payment_status": "FAILED",
     "amount": 4334.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826195"
   },
   {
     "payment_id": "PAY000016",
     "order_id": "O000016",
+    "customer_key": 10001,
+    "product_key": 20004,
+    "store_key": 30002,
     "payment_method": "CREDIT_CARD",
     "payment_status": "SUCCESS",
     "amount": 5815.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826199"
   },
   {
     "payment_id": "PAY000017",
     "order_id": "O000017",
+    "customer_key": 10001,
+    "product_key": 20005,
+    "store_key": 30003,
     "payment_method": "NET_BANKING",
     "payment_status": "SUCCESS",
     "amount": 10735.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826205"
   },
   {
     "payment_id": "PAY000018",
     "order_id": "O000018",
+    "customer_key": 10010,
+    "product_key": 20002,
+    "store_key": 30001,
     "payment_method": "DEBIT_CARD",
     "payment_status": "SUCCESS",
     "amount": 6981.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826208"
   },
   {
     "payment_id": "PAY000019",
     "order_id": "O000019",
+    "customer_key": 10001,
+    "product_key": 20001,
+    "store_key": 30001,
     "payment_method": "UPI",
     "payment_status": "SUCCESS",
     "amount": 7980.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826212"
   },
   {
     "payment_id": "PAY000020",
     "order_id": "O000020",
+    "customer_key": 10001,
+    "product_key": 20003,
+    "store_key": 30002,
     "payment_method": "DEBIT_CARD",
     "payment_status": "SUCCESS",
     "amount": 2459.0,
     "payment_timestamp": "2026-10-04T15:12:05",
-    "updated_at": "2026-10-04T15:12:05"
+    "updated_at": "2026-10-04T15:12:05",
+    "staging_timestamp": "2026-10-05T14:24:54.826215"
   }
 ]

@@ -179,6 +179,12 @@ def main():
         QUARANTINE_DIR
     )
 
+    write_csv(
+    "customers_valid.csv",
+    customers,
+    ACCEPTED_DIR
+)
+
     print(f"Total orders:       {len(orders)}")
     print(f"Valid orders:       {len(valid_orders)}")
     print(f"Quarantined orders: {len(invalid_orders)}")

@@ -1,0 +1,62 @@
+[
+  {
+    "product_id": "P0001",
+    "product_name": "Wireless Mouse",
+    "category": "Electronics",
+    "subcategory": "General",
+    "brand": "Acme",
+    "supplier_id": "SUP001",
+    "unit_cost": 1094.0,
+    "selling_price": 1995.0,
+    "product_status": "ACTIVE",
+    "updated_at": "2026-10-04T15:12:05"
+  },
+  {
+    "product_id": "P0002",
+    "product_name": "Keyboard",
+    "category": "Electronics",
+    "subcategory": "General",
+    "brand": "Acme",
+    "supplier_id": "SUP002",
+    "unit_cost": 1290.0,
+    "selling_price": 2327.0,
+    "product_status": "ACTIVE",
+    "updated_at": "2026-10-04T15:12:05"
+  },
+  {
+    "product_id": "P0003",
+    "product_name": "USB Cable",
+    "category": "Accessories",
+    "subcategory": "General",
+    "brand": "Acme",
+    "supplier_id": "SUP003",
+    "unit_cost": 1185.0,
+    "selling_price": 853.0,
+    "product_status": "ACTIVE",
+    "updated_at": "2026-10-04T15:12:05"
+  },
+  {
+    "product_id": "P0004",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "subcategory": "General",
+    "brand": "Acme",
+    "supplier_id": "SUP004",
+    "unit_cost": 780.0,
+    "selling_price": 1163.0,
+    "product_status": "ACTIVE",
+    "updated_at": "2026-10-04T15:12:05"
+  },
+  {
+    "product_id": "P0005",
+    "product_name": "Laptop Bag",
+    "category": "Accessories",
+    "subcategory": "General",
+    "brand": "Acme",
+    "supplier_id": "SUP005",
+    "unit_cost": 1384.0,
+    "selling_price": 2167.0,
+    "product_status": "ACTIVE",
+    "updated_at": "2026-10-04T15:12:05"
+  }
+]

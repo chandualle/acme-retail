@@ -66,7 +66,24 @@ def generate_customers():
             "country": "India",
             "signup_date": "2026-01-01",
             "customer_status": "ACTIVE",
-            "updated_at": generate_timestamp()
+            "updated_at": "2026-10-04T09:00:00"
+        })
+
+            # Simulate a customer update from the source system.
+            # The same customer_id appears twice with different updated_at values.
+
+        customers.append({
+            "customer_id": "C0001",
+            "first_name": "Ravi",
+            "last_name": "Kumar",
+            "email": "ravi.updated@example.com",
+            "phone": "9876543210",
+            "city": "Vijayawada",
+            "state": "AP",
+            "country": "India",
+            "signup_date": "2026-01-01",
+            "customer_status": "ACTIVE",
+            "updated_at": "2026-10-04T11:00:00"
         })
 
     return customers

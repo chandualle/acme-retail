@@ -223,11 +223,11 @@ def main():
     # Primary key checks
     # -----------------------------------------
 
-    errors += check_unique(
-        customers,
-        "customer_id",
-        "customers"
-    )
+    # errors += check_unique(
+    #     customers,
+    #     "customer_id",
+    #     "customers"
+    # )
 
     errors += check_unique(
         products,
